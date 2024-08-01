@@ -1,11 +1,14 @@
 ## Active Directory (AD) Overview
 
 Active Directory (AD) is a directory service used to manage and organize users and computers within a Windows network. It provides centralized authentication, authorization, and administration, enabling administrators to enforce policies and manage access efficiently.
-![Screenshot](WindowServer2019VM.png)
+
 
 ## Project Details
 
 - **Domain Controller Setup**: Created a Windows Server 2019 virtual machine in Microsoft Azure to act as the Domain Controller. Installed the necessary components for Active Directory Domain Services (ADDS).
+
+
+  ![Screenshot](WindowServer2019VM.png)
 
 - **Domain Creation**: Set up a domain named `BikashTech.local`.
 
